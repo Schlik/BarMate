@@ -3,7 +3,7 @@ Lets get started on creating our fortune.  BarMate is everything one needs to ma
 
 Steps
 
-1.  Get git working on home computer.
+X.  Get git working on home computer.
 2.  Install Google App Engine on home computer.
 3.  Create Java Google App Engine project.
 4.  Create repository of Google App Engine project.
